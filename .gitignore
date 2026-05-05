@@ -1,0 +1,10 @@
+.aider*
+.env
+android/.gradle/
+android/.idea/
+android/local.properties
+android/**/build/
+backend/data/*.db
+backend/data/*.db-*
+backend/*.log
+backend/qmanage_server.exe
